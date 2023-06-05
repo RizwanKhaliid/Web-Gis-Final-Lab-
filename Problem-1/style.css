@@ -1,0 +1,41 @@
+.std_details{
+    list-style: none;
+}
+
+.qualifications{
+    list-style: none;
+}
+
+.t_skill{
+    list-style: none;
+}
+
+.about_me{
+    list-style: none;
+}
+.about{
+    width: fit-content;
+    border: 2px solid black;
+}
+
+.font-1{
+    font-size: small;
+}
+
+.font-2{
+    font-size: xx-large;
+}
+
+.box{
+    /* display: flex; */
+    border: 2px solid black;
+    height: 280px;
+    width: 500px;
+}
+
+.row{
+    border: 2px solid black;
+    padding: 20px;
+    padding-left: 10px;
+    /* margin-right: 10px; */
+}
